@@ -26,13 +26,13 @@ To run this project, you will need to assign the following variables in main.js 
 Clone the project
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/trishulmuchintala/oceanDataTokenWallet.git
 ```
 
 Go to the project directory
 
 ```bash
-cd my-project
+cd oceanDataTokenWallet
 ```
 
 Run the file(make sure you assign etherScanApi key and your walletAddress before running the below command)
